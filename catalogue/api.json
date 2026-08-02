@@ -1,0 +1,40 @@
+{
+  "zenithai": {
+    "id": "zenithai",
+    "name": "ZenithAI",
+    "doc": "https://raw.githubusercontent.com/AffanShaikhsurab/zenithai-platform-docs/main/docs/deprecations.md",
+    "npm": "@zenithai/sdk",
+    "env": ["ZENITHAI_API_KEY"],
+    "catalogue_version": "zenithai-catalogue@1",
+    "generated_at": "2026-07-28T00:00:00.000Z",
+    "models": {
+      "zen-flux-3": {
+        "id": "zen-flux-3",
+        "name": "ZenithAI Flux 3",
+        "temperature": true,
+        "top_p": true,
+        "top_k": true,
+        "release_date": "2026-04-14",
+        "last_updated": "2026-07-28"
+      },
+      "zen-flux-2": {
+        "id": "zen-flux-2",
+        "name": "ZenithAI Flux 2",
+        "temperature": true,
+        "top_p": true,
+        "top_k": true,
+        "release_date": "2025-11-03",
+        "last_updated": "2026-07-28"
+      },
+      "zen-nano-1": {
+        "id": "zen-nano-1",
+        "name": "ZenithAI Nano 1",
+        "temperature": true,
+        "top_p": true,
+        "top_k": true,
+        "release_date": "2025-09-22",
+        "last_updated": "2026-07-28"
+      }
+    }
+  }
+}
