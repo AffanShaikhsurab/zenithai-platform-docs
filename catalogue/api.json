@@ -6,34 +6,34 @@
     "npm": "@zenithai/sdk",
     "env": ["ZENITHAI_API_KEY"],
     "catalogue_version": "zenithai-catalogue@1",
-    "generated_at": "2026-07-28T00:00:00.000Z",
+    "generated_at": "2026-08-02T00:00:00.000Z",
     "models": {
       "zen-flux-3": {
         "id": "zen-flux-3",
         "name": "ZenithAI Flux 3",
-        "temperature": true,
-        "top_p": true,
-        "top_k": true,
+        "temperature": false,
+        "top_p": false,
+        "top_k": false,
         "release_date": "2026-04-14",
-        "last_updated": "2026-07-28"
+        "last_updated": "2026-08-02"
       },
       "zen-flux-2": {
         "id": "zen-flux-2",
         "name": "ZenithAI Flux 2",
-        "temperature": true,
-        "top_p": true,
-        "top_k": true,
+        "temperature": false,
+        "top_p": false,
+        "top_k": false,
         "release_date": "2025-11-03",
-        "last_updated": "2026-07-28"
+        "last_updated": "2026-08-02"
       },
       "zen-nano-1": {
         "id": "zen-nano-1",
         "name": "ZenithAI Nano 1",
-        "temperature": true,
-        "top_p": true,
-        "top_k": true,
+        "temperature": false,
+        "top_p": false,
+        "top_k": false,
         "release_date": "2025-09-22",
-        "last_updated": "2026-07-28"
+        "last_updated": "2026-08-02"
       }
     }
   }
